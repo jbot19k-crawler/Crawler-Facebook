@@ -1,5 +1,6 @@
 import FacebookCrawler as FBCrawler
 import time
+
 def main():
     token = 'EAACEdEose0cBADvZAEM7EjLhigTsx7FmofA8yZAnsZCMcb1OZB7uoNPzYDoNEHJ6jsuOtchcnZCLkiZC4vYY5bXzeeZAupmRxrCRKbbntEyybZCWvtHmQZAuw8kPbmSQ1mByoREcFKyhmbJUDih8lnXFfuBBAxR0C6FURyrdpCuZClZA3maEvQlMl0DZCvH0lJmXDiwZD'
     fanpage_name = 'ETtoday新聞雲'
